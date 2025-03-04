@@ -1,4 +1,5 @@
 # Environments
+.obsidian
 .env
 .venv
 env/
@@ -7,6 +8,7 @@ ENV/
 env.bak/
 venv.bak/
 lang-check/.env
+
 
 # Pyre type checker
 .pyre/
